@@ -11,7 +11,7 @@ pyasn1-modules==0.2.7
 pytest==6.1.2
 pytest-mock==3.3.1
 requests==2.22.0
-rsa==4.0
+rsa==4.7
 six==1.13.0
 soupsieve==1.9.5
 urllib3==1.25.7
